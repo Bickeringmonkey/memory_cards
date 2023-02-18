@@ -14,6 +14,8 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: url(/images/animals.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 ::selection{
   color: #fff;
